@@ -5,7 +5,7 @@
 <br/>
 
 [![Portfolio Live](https://img.shields.io/badge/🌐_Portfolio_Live-3b82f6?style=for-the-badge)](https://maralishashank.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maralishashank)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marali-shashank/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maralishashank@gmail.com)
 [![SMS Live Demo](https://img.shields.io/badge/SMS_Project_Demo-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://student-management-system-self-one.vercel.app)
 
@@ -174,7 +174,7 @@ To use your own Formspree endpoint:
 
 - 📧 [maralishashank@gmail.com](mailto:maralishashank@gmail.com)
 - 📱 +91 6305516008
-- 💼 [linkedin.com/in/maralishashank](https://linkedin.com/in/maralishashank)
+- 💼 [linkedin.com/in/maralishashank](https://www.linkedin.com/in/marali-shashank/)
 - 🐙 [github.com/Maralishashank](https://github.com/Maralishashank)
 - 🌐 [maralishashank.github.io](https://maralishashank.github.io)
 
